@@ -72,7 +72,7 @@ Selecting "Spider-Man 3" from the dropdown and clicking "Show Recommendation" wi
 
 ## Future Improvements
 
-- **Enhanced Recommendation Algorithm**: Experimenting with other recommendation algorithms for improved recommendations.
+- **Enhanced Recommendation Algorithm** : Experimenting with other recommendation algorithms for improved recommendations.
 - **Expanded Movie Metadata**: Incorporating genres, actors, and directors to improve similarity calculations.
 - **User Ratings Integration**: Allowing users to rate movies, potentially enhancing personalized recommendations.
 
