@@ -64,9 +64,10 @@ Selecting "Inception" from the dropdown and clicking "Show Recommendation" will 
 
 ![image](https://github.com/user-attachments/assets/699619e3-33e8-4b78-9c69-62abfc8ebf01)
 
-Selecting "Harry Potter and the Half-Blood Prince" from the dropdown and clicking "Show Recommendation" will display five movies similar to "Inception," with their posters.
+Selecting "Spider-Man 3" from the dropdown and clicking "Show Recommendation" will display five movies similar to "Inception," with their posters.
 
-![image](https://github.com/user-attachments/assets/c2052e6a-5f78-4a75-98e9-7b2acb48b143)
+![image](https://github.com/user-attachments/assets/dab045b8-fcc2-4120-aab6-89020c685dbe)
+
 
 
 ## Future Improvements
